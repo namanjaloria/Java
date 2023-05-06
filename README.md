@@ -1,1 +1,1 @@
-# This repository contain java projects.
+# This repository contains java projects.
